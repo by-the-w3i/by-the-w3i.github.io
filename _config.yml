@@ -2,21 +2,21 @@
 title: bythew3i
 SEOTitle: bythew3i | b10g
 header-img: img/home-bg.jpg
-email: huxpro@gmail.com
+email: jevin0change@gmail.com
 description: ""
 keyword: ""
-url: "http://huangxuan.me"              # your host, for absolute URL
+url: "https://by-the-w3i.github.io"     # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 
 
 # SNS settings
 RSS: false
-weibo_username:     huxpro
-zhihu_username:     huxpro
-github_username:    huxpro
-#twitter_username:  huxpro
-facebook_username:  huxpro
+# weibo_username:     huxpro
+# zhihu_username:     huxpro
+github_username:    by-the-w3i
+# twitter_username:  huxpro
+# facebook_username:  huxpro
 
 
 
