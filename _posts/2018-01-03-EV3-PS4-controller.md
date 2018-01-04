@@ -15,7 +15,7 @@ tags:
 
 ### Resources
 
-> download [ev3dev](http://www.ev3dev.org/)
+> Download [ev3dev](http://www.ev3dev.org/)
 
 > Read [python-ev3dev API](http://python-ev3dev.readthedocs.io/en/stable/)
 

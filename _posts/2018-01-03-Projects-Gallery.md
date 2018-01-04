@@ -37,7 +37,7 @@ tags:
 ### Pokémon Catch
 <img src="/img/post/20180103/mfc1.png" alt="mfc1" width="75%" >
 
-`description`| **Pokémon Catch** is a Gold Miner-like game. User must use mouse to catch the Pokémon.
+`Description`| **Pokémon Catch** is a Gold Miner-like game. User must use mouse to catch the Pokémon.
 `Development Language`| C++
 `IDE`| Visual Studio (MFC)
 `Required Environment`| Windows
@@ -48,7 +48,7 @@ tags:
 ### Animation Maker
 <img src="/img/post/20180103/mfc2.png" alt="mfc2" width="75%" >
 
-`description`| **Animation Maker** satisfies the basic functions of making animation films including setting frames and durations.
+`Description`| **Animation Maker** satisfies the basic functions of making animation films including setting frames and durations.
 `Development Language`| C++
 `IDE`| Visual Studio (MFC)
 `Required Environment`| Windows
@@ -59,7 +59,7 @@ tags:
 ### Tecent TransformDlgApp
 <iframe src="https://www.youtube.com/embed/ES4_9YQ0mcQ" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 
-`description`| **Tecent TransformDlgApp** is a social media APP for users using floating dialogs and pictures to communicate.
+`Description`| **Tecent TransformDlgApp** is a social media APP for users using floating dialogs and pictures to communicate.
 `Development Language`| C++
 `IDE`| Visual Studio (MFC)
 `Required Environment`| Windows
@@ -74,7 +74,7 @@ tags:
 ### Mad Hatter
 <img src="/img/post/20180103/ad1.jpeg" alt="ad1" width="50%">
 
-`description`| **Mad Hatter** is an Android App for user adding custom hat to a picture. Cloud service will allow user to upload/download the pictures.
+`Description`| **Mad Hatter** is an Android App for user adding custom hat to a picture. Cloud service will allow user to upload/download the pictures.
 `Development Language`| JAVA, PHP, MySQL
 `IDE`| Android Studio, PhpStorm
 `Required Environment`| Android 5 or above
@@ -85,7 +85,7 @@ tags:
 ### Connect 4 online
 <img src="/img/post/20180103/ad2.jpeg" alt="ad2" width="50%">
 
-`description`| **Connect 4 online** allows 2 players play connect 4 online through 2 android devices.
+`Description`| **Connect 4 online** allows 2 players play connect 4 online through 2 android devices.
 `Development Language`| JAVA, PHP, MySQL
 `IDE`| Android Studio, PhpStorm
 `Required Environment`| Android 5 or above
@@ -96,10 +96,11 @@ tags:
 ### MSU Parking Tips
 <img src="/img/post/20180103/ad3.jpeg" alt="ad3" width="50%">
 
-`description`| **MSU Parking Tips** is a helpful guide to find FREE parking on campus.
+`Description`| **MSU Parking Tips** is a helpful guide to find FREE parking on campus.
 `Development Language`| JAVA, Google Map API
 `IDE`| Android Studio, PhpStorm
 `Required Environment`| Android 5 or above
+`URL`| https://github.com/savannapinkoski/project3-team16 
 
 ---
 
