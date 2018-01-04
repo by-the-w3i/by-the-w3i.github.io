@@ -20,7 +20,7 @@ tags:
 > Read [python-ev3dev API](http://python-ev3dev.readthedocs.io/en/stable/)
 
 ### key mapping
-> I spent a lot of time testing the key map. Finally I concluded a full version of key mapping.
+> It took me a while to test the key map. Finally I concluded a full version of key mapping.
 
 <img src="/img/post/20180103/ps41.jpg" alt="ps41" width="80%">
 <img src="/img/post/20180103/ps42.jpg" alt="ps42" width="80%">
