@@ -17,7 +17,7 @@ tags:
 
 > Welcome to bythew3i's Projects Gallery.
 >
-> I did all of these projects during 2016-2017 and most of them have not been posted on github yet.
+> I did all of these projects during 2016-2017 and most of them are not available on github.
 
 ## Category
 - [MFC](#mfc)
