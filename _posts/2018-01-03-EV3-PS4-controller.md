@@ -11,7 +11,7 @@ tags:
     - LEGO
 ---
 
-> In 2017 summer break, I tried to find a way to connect Sony DualShock 4 Controller to EV3. However there was not so much information online, finally I figured it out by my own and the PS4 controller now can fully programmed.
+> During 2017 summer break, I tried to find a way to connect Sony DualShock 4 Controller to EV3. However there was not so much information online, finally I figured it out by my own and the PS4 controller now can be fully programmed.
 
 ### Resources
 

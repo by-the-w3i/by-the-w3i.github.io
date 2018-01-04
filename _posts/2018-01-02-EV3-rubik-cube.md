@@ -10,7 +10,7 @@ tags:
     - LEGO
 ---
 
-> In 2017 summer break, I followed the instructions online and implement the rubik's cube solver program in LEGO EV3 robot.
+> During 2017 summer break, I followed the instructions online and implemented the rubik's cube solver program in LEGO EV3 robot.
 
 #### Instructions
 > [manual book](http://mindcuber.com/mindcub3r/mindcub3r.html)
