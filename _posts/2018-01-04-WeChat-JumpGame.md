@@ -42,7 +42,7 @@ https://github.com/wangshub/wechat_jump_game
 <a name="wda"></a>
 ##### 安装 `WebDriverAgent`
 - [iOS 真机如何安装 WebDriverAgent](https://testerhome.com/topics/7220)
-- install [python-wda](https://github.com/openatx/facebook-wda)
+- 安装 [python-wda](https://github.com/openatx/facebook-wda)
 - [WDA API docs](https://github.com/openatx/facebook-wda)
 
 > 发现这个 `WDA` 和我之前开发抢课软件用到的 `ChromeDriver` 异曲同工。以后也将更方便我做此类自动化项目。
@@ -64,6 +64,7 @@ https://github.com/wangshub/wechat_jump_game
 ###### 采样 (test.py)
 
 ```python
+__author__ = "bythw3i"
 import wda
 
 c=wda.Client()
@@ -78,6 +79,7 @@ while input("Enter CMD: ")!="n":
 
 ###### 分析 (imgtest.py, testall.py)
 ```python
+__author__ = "bythw3i"
 from PIL import Image, ImageDraw
 from math import sqrt
 
@@ -176,6 +178,7 @@ for i in range(19):
 
 ###### 结果 (hackjump.py)
 ```python
+__author__ = "bythw3i"
 
 from math import sqrt
 import wda
