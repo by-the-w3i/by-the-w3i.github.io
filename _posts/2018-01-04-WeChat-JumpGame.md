@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "微信【跳一跳】破解程序开发记录"
+title:      "微信「跳一跳」破解程序开发记录"
 subtitle:   "Mac + iPhone 7"
 author:     "bythew3i"
 header-img: "img/post/20180104/jumpgame_bg.png"
