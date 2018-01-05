@@ -64,7 +64,8 @@ https://github.com/wangshub/wechat_jump_game
 ###### 采样 (test.py)
 
 ```python
-__author__ = "bythw3i"
+__author__="bythew3i"
+
 import wda
 
 c=wda.Client()
@@ -79,7 +80,8 @@ while input("Enter CMD: ")!="n":
 
 ###### 分析 (imgtest.py, testall.py)
 ```python
-__author__ = "bythw3i"
+__author__="bythew3i"
+
 from PIL import Image, ImageDraw
 from math import sqrt
 
@@ -178,7 +180,7 @@ for i in range(19):
 
 ###### 结果 (hackjump.py)
 ```python
-__author__ = "bythw3i"
+__author__="bythew3i"
 
 from math import sqrt
 import wda
