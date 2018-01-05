@@ -306,7 +306,8 @@ cd WeChat-JumpGame-hack-iPhone
 python3 hackjump.py
 ```
 
-不要太 `high` 哦.
+不要太 `high` 哦. 差不多就行了 ...
+<img src="/img/post/20180104/high.png" alt="ad3" width="50%">
 
 Github 项目地址: https://github.com/by-the-w3i/WeChat-JumpGame-hack-iPhone
 
