@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "微信跳一跳小程序破解程序开发记录"
+title:      "微信跳一跳破解程序开发记录"
 subtitle:   "Mac + iPhone 7"
 author:     "bythew3i"
 header-img: "img/post/20180104/jumpgame_bg.png"
@@ -22,7 +22,7 @@ tags:
 
 https://github.com/wangshub/wechat_jump_game
 
-之前没有写这种外挂的经验，看他 `python` 脚本里用到的库 `PIL` 啊什么的都是我非常熟悉的库。于是我就放弃阅读了，准备自己试着写一个破解程序。
+之前没有写这种外挂的经验，一看他 `python` 脚本里用到的库 `PIL` 啊什么的都是我非常熟悉的库。于是我就放弃阅读了，准备自己试着写一个破解程序。
 
 > <iframe src="https://www.youtube.com/embed/PTqf7Qbi0BM" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 >
@@ -45,7 +45,7 @@ https://github.com/wangshub/wechat_jump_game
 
 > 发现这个 `WDA` 和我之前开发抢课软件用到的 `ChromeDriver` 异曲同工。以后也将更方便我做此类自动化项目。
 
-<a name="analyze"></a>
+
 ##### 整体思路
 - 跳之前，拍一张游戏截图传到电脑
 - 算法识别 `棋子位置` 和 `目的地中心位置` （也就是下个着陆点）
@@ -53,6 +53,8 @@ https://github.com/wangshub/wechat_jump_game
 - 同过 WDA 控制 iPhone 完成跳跃
 - 回到第一步
 
+
+<a name="analyze"></a>
 ##### 数据分析
 
 > 此过程简单解释了 数据分析，完成 [安装 WDA](#wda)的读者可直接跳至 [使用说明](#intro)
