@@ -8,6 +8,7 @@ tags:
     - python3
     - Xcode
     - iOS
+    - macOS
     - 中文
 ---
 
@@ -50,7 +51,7 @@ https://github.com/wangshub/wechat_jump_game
 - 跳之前，拍一张游戏截图传到电脑
 - 算法识别 `棋子位置` 和 `目的地中心位置` （也就是下个着陆点）
 - 计算距离，转化时间
-- 同过 WDA 控制 iPhone 完成跳跃
+- 通过 WDA 控制 iPhone 完成跳跃
 - 回到第一步
 
 
@@ -65,7 +66,7 @@ https://github.com/wangshub/wechat_jump_game
 import wda
 
 c=wda.Client()
-cnt = 0
+cnt = 1
 while input("Enter CMD: ")!="n":
 	c.screenshot('img_data/screenshot{}.png'.format(cnt))
 	cnt += 1
