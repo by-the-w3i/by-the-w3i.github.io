@@ -31,7 +31,7 @@ https://github.com/wangshub/wechat_jump_game
 
 > <iframe src="https://www.youtube.com/embed/thoQPGUqHGw" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
 >
-> 这是我的成品，有 99% 的成功率
+> 这是我的成品，全自动无限刷分
 
 ### 准备工作
 ##### 工具
