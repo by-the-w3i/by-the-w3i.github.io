@@ -100,11 +100,6 @@ tags:
 `Development Language`| JAVA, Google Map API
 `IDE`| Android Studio, PhpStorm
 `Required Environment`| Android 5 or above
-`URL`| https://github.com/savannapinkoski/project3-team16 
+`URL`| https://github.com/savannapinkoski/project3-team16
 
 ---
-
-
-
-
-![]()
