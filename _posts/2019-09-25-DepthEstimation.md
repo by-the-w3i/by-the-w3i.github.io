@@ -11,6 +11,8 @@ tags:
     - Computer Vison
 ---
 
+> Depth estimation is critical in interactive machines. In general, it is impossible to estimate the absolute scale of a scene based only on an image of it. However, if we know the true size of an object in the world, we can take advantage of this piece of information to estimate how far the object is from the camera (i.e., its depth). This is my goal for this project.
+
 ### Environment
 - Ubuntu 18.04
 - [ROS Melodic](http://wiki.ros.org/melodic/Installation/Ubuntu.)
@@ -132,3 +134,5 @@ Estimated depth: 1.6076545619m
 Estimated depth from depth image: 1.53564919162m 
 Difference between estimates: -0.0720053702764
 ```
+
+---
