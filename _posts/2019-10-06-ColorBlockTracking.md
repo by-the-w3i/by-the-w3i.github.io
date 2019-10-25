@@ -74,4 +74,9 @@ Based on the ROS and RealSense D435 camera, I implemented a Yellow block trackin
 \f{x} = \int_{-\infty}^\infty
     \hat \f\xi\,e^{2 \pi i \xi x}
     \,d\xi
+
+{% raw %}
+When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
+ {% endraw %}
 ---
