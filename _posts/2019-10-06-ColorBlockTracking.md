@@ -70,4 +70,8 @@ Based on the ROS and RealSense D435 camera, I implemented a Yellow block trackin
 
 <iframe src="https://www.youtube.com/embed/qhstN7fMYwk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+% \f is defined as f(#1) using the macro
+\f{x} = \int_{-\infty}^\infty
+    \hat \f\xi\,e^{2 \pi i \xi x}
+    \,d\xi
 ---
