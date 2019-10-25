@@ -12,7 +12,7 @@ tags:
 
 > During my first week of life at Yale, I was so tired of walking all the way to turn off the light in the dorm. Because the bed is soooo far away from the light switch. Then, guess what? I built a remote switch!!!
 
-oh! by the way, you can not find my dorm... because it is 404...hahaha
+Oh! By the way, you can not find my dorm... because it is 404...hahaha
 <img src="/img/404.jpeg" alt="404" width="40%">
 
 ### Brainstorming
