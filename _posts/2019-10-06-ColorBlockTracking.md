@@ -79,4 +79,8 @@ Based on the ROS and RealSense D435 camera, I implemented a Yellow block trackin
 When \(a \ne 0\), there are two solutions to \(ax^2 + bx + c = 0\) and they are
 $$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
  {% endraw %}
+
+ {% katex %}
+c = \pm\sqrt{a^2 + b^2}
+{% endkatex %}
 ---
