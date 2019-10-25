@@ -112,5 +112,4 @@ And my outputs are:
 ![overfit](/img/post/20191019/o2.png)
 
 
-I am quite satsfied with the results.
-
+---
