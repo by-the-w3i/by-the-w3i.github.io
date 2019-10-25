@@ -66,7 +66,7 @@ After applying Kalman Filter Algorithm, I got this output:
 
 
 ### Real-Time Filtering
-Based on the ROS and RealSense D435 camera, I implemented a Yellow block tracking (red line) and Kalman Filter Pose prediction in real time system.
+Based on the ROS and RealSense D435 camera, I implemented a Yellow block tracking (`red line`) and Kalman Filter Pose prediction (`green line`) in real time system.
 
 <iframe src="https://www.youtube.com/embed/qhstN7fMYwk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
