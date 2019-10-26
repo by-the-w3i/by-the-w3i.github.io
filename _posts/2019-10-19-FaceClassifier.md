@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      "Face Classifer"
+title:      "Face Classifier"
 subtitle:   "Deep Learning Practice"
 author:     "bythew3i"
 header-img: "img/post/20191019/bg.png"
