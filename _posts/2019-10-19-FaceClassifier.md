@@ -5,6 +5,7 @@ subtitle:   "Deep Learning Practice"
 author:     "bythew3i"
 header-img: "img/post/20191019/bg.png"
 tags:
+    - AI
     - Deep Learning
     - CNN
     - Tensorflow
